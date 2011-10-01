@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-    <ModulePrefs title="Standard gadget structure" author="Paul Moss" author_email="moss.paul@gmail.com"> <Require feature="opensocial-0.8"/>
-</ModulePrefs> <Content type="html"> <![CDATA[ Gadget content and features here
-]]> </Content> </Module>
+    <ModulePrefs title="Standard gadget structure" 
+                 author="Paul Moss" 
+                 author_email="moss.paul@gmail.com">
+        <Require feature="opensocial-0.8"/>
+    </ModulePrefs> 
+    <Content type="html">
+        <![CDATA[ Gadget content and features here
+        ]]>
+    </Content>
+</Module>
