@@ -10,6 +10,7 @@
         <div id="all">
             <form action="" method="GET">
                 <input type="text" name="wc_local_url"/>
+                <button type="submit">Check URL</button>
             </form>
         </div>
         ]]>
