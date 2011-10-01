@@ -6,7 +6,7 @@
         <Require feature="opensocial-0.8"/>
     </ModulePrefs> 
     <Content type="html">
-        <![CDATA[ Gadget content and features here
+        <![CDATA[ Hello World, I am cool!
         ]]>
     </Content>
 </Module>
